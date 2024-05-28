@@ -48,7 +48,7 @@ The following packages are required for the digital signage player to function c
 
 ## Contact
 
-For further assistance, please contact [Your Name/Company] at [Your Email/Contact Information].
+For further assistance, please contact Karthik Chakravarthi at [karthikc386@gmail.com].
 
 ---
 
