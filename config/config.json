@@ -2,5 +2,6 @@
     "player_supported_formats": ["image","txt","video"],
     "image_supported_formats": [".png", ".jpg", ".jpeg"],
     "video_supported_formats": [".mp4"],
+    "text_supported_formats": [".txt"],
     "default_display_time": 5
 }

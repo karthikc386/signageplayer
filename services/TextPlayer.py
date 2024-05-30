@@ -12,6 +12,7 @@ class TextPlayer:
         self.render_text(text, font, pygame.Color('white'), (self.screen_width, self.screen_height))
 
     def render_text(self, text, font, color, center):
+        text = text.rstrip('\r\n')
         words = text.split(' ')
         lines = []
         current_line = []
